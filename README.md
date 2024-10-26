@@ -10,5 +10,5 @@ ArcX is the world's first metaverse ecosystem project to integrate physical arca
  
 | Contract Name  | Address                                    | Purpose                                   |
 |----------------|--------------------------------------------|-------------------------------------------|
-| Sign  | [EQBnRJ5RrAJLHBVdrT3s_Xijlsj8sgbyXVB5osPMRRl4bL1H](https://testnet.tonviewer.com/kQBnRJ5RrAJLHBVdrT3s_Xijlsj8sgbyXVB5osPMRRl4bAbN) | tact Contract |
+| Sign  | [EQBnRJ5RrAJLHBVdrT3s_Xijlsj8sgbyXVB5osPMRRl4bL1H](https://testnet.tonviewer.com/kQBnRJ5RrAJLHBVdrT3s_Xijlsj8sgbyXVB5osPMRRl4bAbN) | Sign Contract |
 
