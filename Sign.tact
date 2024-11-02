@@ -27,9 +27,9 @@ contract signText with Deployable {
       
         if ( value_id == null  || value_id!! < local_time) {
             self.array.Address_sign_time.set(context().sender,local_time);
-            dump("签到成功");
+            dump("Sign in successfully");
         }else {
-            require(false,"你已经签到过了，明天再来吧");
+            require(false,"You already checked in. Come back tomorrow");
         }   
     }
 
